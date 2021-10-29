@@ -1,4 +1,4 @@
-# Rreact Training
+# vite-react-ts-starter
 
 ## License
 
